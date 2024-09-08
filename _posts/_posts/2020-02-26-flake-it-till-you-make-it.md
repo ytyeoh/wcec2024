@@ -4,11 +4,12 @@ title: F zone
 subtitle: seat
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+tags: [dinner]
+comments: false
 mathjax: true
 author: YT YEOh
 ---
+
 | **Name**        | **Table** | **Person** | **Table Total** |
 |-----------------|-----------|------------|-----------------|
 | 意大利威尼托华侨华人工商联合会 | 1         | 10         | 12              |
