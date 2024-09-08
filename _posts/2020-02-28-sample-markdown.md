@@ -1,95 +1,65 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: F zone 
+subtitle: seat
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: YT YEOh
 ---
-
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
-
-Here's a table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+| **Name**            | **Table** | **Person** | **Table Total** |
+|:-------------------:|:---------:|:----------:|:---------------:|
+| **意大利威尼托华侨华人工商联合会** | 1         | 10         | 12              |
+| **中意商联 **           | 1         | 2          |                 |
+| **意大利那不勒斯华商会 **     | 2         | 8          | 12              |
+| **西班牙华侨华人协会 **      | 2         | 4          |                 |
+| **日本上海经济文化交流促进会**   | 3         | 10         | 10              |
+| **日本中华总商会 **        | 4         | 10         | 10              |
+| **日本中华总商会 **        | 5         | 12         | 12              |
+| **日本中华总商会 **        | 6         | 12         | 12              |
+| **Media **          | 7         | 12         | 12              |
+| **Media **          | 8         | 12         | 12              |
+| **日本中华总商会 **        | 9         | 12         | 12              |
+| **日本中华总商会 **        | 10        | 12         | 12              |
+| **日本中华总商会 **        | 11        | 12         | 12              |
+| **粤港澳大湾区企业家联盟 **    | 12        | 12         | 12              |
+| **意大利-中国贸易发展促进会 **  | 13        | 9          | 12              |
+| **意大利那不勒斯华商会 **     | 13        | 3          |                 |
+| **意大利-中国贸易发展促进会 **  | 14        | 12         | 12              |
+| **粤港澳大湾区企业家联盟 **    | 15        | 12         | 12              |
+| **粤港澳大湾区企业家联盟 **    | 16        | 12         | 12              |
+| **粤港澳大湾区企业家联盟 **    | 17        | 12         | 12              |
+| **日本中华总商会 **        | 18        | 12         | 12              |
+| **日本中华总商会 **        | 19        | 12         | 12              |
+| **日本中华总商会 **        | 20        | 12         | 12              |
+| **Media **          | 21        | 12         | 12              |
+| **Media **          | 22        | 12         | 12              |
+| **日本中华总商会 **        | 23        | 12         | 12              |
+| **日本中华总商会 **        | 24        | 12         | 12              |
+| **日本中华总商会 **        | 25        | 12         | 12              |
+| **中国侨商联合会 **        | 26        | 12         | 12              |
+| **中国侨商联合会 **        | 27        | 12         | 12              |
+| **中国侨商联合会 **        | 28        | 12         | 12              |
+| **中国侨商联合会 **        | 29        | 12         | 12              |
+| **中国侨商联合会 **        | 30        | 12         | 12              |
+| **中国侨商联合会 **        | 31        | 12         | 12              |
+| **西澳中华总商会 **        | 32        | 12         | 12              |
+| **南澳大利亚中华总商会 **     | 33        | 8          | 12              |
+| **巴布亚新几内亚北省商会 **    | 33        | 4          |                 |
+| **毛里裘斯华商经贸专业联合会**   | 34        | 8          | 12              |
+| **塞舌尔中华总商会 **       | 34        | 3          |                 |
+| **马达加斯加华商总会 **      | 34        | 1          |                 |
+| **澳大利亚中华总商会 **      | 36        | 10         | 10              |
+| **中国侨商联合会 **        | 37        | 6          | 10              |
+| **韩国釜蔚庆中华总商会 **     | 37        | 4          |                 |
+| **中国侨商联合会 **        | 38        | 12         | 12              |
+| **中国侨商联合会 **        | 39        | 12         | 12              |
+| **中国侨商联合会 **        | 40        | 12         | 12              |
+| **韩国中华总商会 **        | 44        | 6          | 12              |
+| **韩国釜蔚庆中华总商会 **     | 44        | 6          |                 |
+| **澳大利亚中华总商会 **      | 45        | 12         | 12              |
+| **中国侨商联合会 **        | 47        | 12         | 12              |
+| **Media **          | 47        | 12         | 12              |
+| **Total**           |           | 508        | 508             |
