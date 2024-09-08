@@ -2,7 +2,7 @@
 layout: post
 title: F zone 
 subtitle: seat
-gh-repo: daattali/beautiful-jekyll
+gh-repo: ytyeoh/wcec2024
 gh-badge: [star, fork, follow]
 tags: [dinner]
 comments: false
