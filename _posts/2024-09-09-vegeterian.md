@@ -32,3 +32,4 @@ author: YT yEOh
 | 金惠玉      | 韩国中华总商会 Korea Chinese Chamber of Commerce & Industry                         |
 | 翟凤玲      | 韩国中华总商会 Korea Chinese Chamber of Commerce & Industry                         |
 | 梁赈羾      | Public                                                                       |
+| Total|21|
